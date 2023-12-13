@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkamble5&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkamble5" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamauravkamble" target="blank"><img src="https://img.shields.io/twitter/follow/iamauravkamble?logo=twitter&style=for-the-badge" alt="iamauravkamble" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsauravkamble" target="blank"><img src="https://img.shields.io/twitter/follow/iamauravkamble?logo=twitter&style=for-the-badge" alt="iamauravkamble" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce App**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Node js**
 
-- 📫 How to reach me **srvkmbl@gmail.com**
+- 📫 How to reach me **sauravkamble.dev@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
