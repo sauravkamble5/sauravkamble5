@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Node js, Express, React, NEXT js,MongoDB,**
+- 💬 Ask me about **Node js, Express, React, MongoDB, NEXT.JS**
 
 - 📫 How to reach me **sauravkamble.dev@gmail.com**
 
