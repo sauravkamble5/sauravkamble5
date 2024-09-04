@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-Commerce App**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **C++ & Blockchain**
 
 - 💬 Ask me about **Node js, Express, React, MongoDB, NEXT.JS**
 
